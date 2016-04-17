@@ -14,14 +14,4 @@ Name | Default | Required | Description
 
 ## Usage
 
-See [docker-zabbix-server](https://github.com/simoswine/docker-zabbix-server)
-
-DB_HOST=${DB_HOST:-database}
-DB_NAME=${DB_NAME:-zabbix}
-DB_USER=${DB_USER:-zabbix}
-DB_PORT=${DB_PORT:-3306}
-DB_PASSWORD=${DB_PASSWORD:-insecure}
-DEBUG_LEVEL=${DEBUG_LEVEL:-2}
-ZABBIX_HOST=${ZABBIX_HOST:-zabbix}
-ZABBIX_PORT=${ZABBIX_PORT:-10051}
-
+See [docker-zabbix-server](https://github.com/simonswine/zabbix-server)
