@@ -14,4 +14,4 @@ Name | Default | Required | Description
 
 ## Usage
 
-See [docker-zabbix-server](https://github.com/simonswine/zabbix-server)
+See [docker-zabbix-server](https://github.com/simonswine/docker-zabbix-server)
